@@ -7,6 +7,7 @@ import (
 	caddy "github.com/NetSepio/astro/api/v1/service"
 	"github.com/NetSepio/astro/api/v1/status"
 	"github.com/NetSepio/astro/api/v1/agents"
+	"github.com/NetSepio/astro/api/v1/operations"
 
 	"github.com/gin-gonic/gin"
 )
@@ -21,5 +22,6 @@ func ApplyRoutes(r *gin.RouterGroup) {
 		authenticate.ApplyRoutes(v1)
 		caddy.ApplyRoutes(v1)
 		agents.ApplyRoutes(v1)
+		operations.ApplyRoutes(v1)
 	}
 }
