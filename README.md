@@ -1,12 +1,12 @@
-# Erebrus Nexus Node
+# Erebrus Astro Node
 
-The Erebrus Nexus Node is a high-performance node designed for AI workloads, application orchestration, and decentralized VPN. Unlike the Beacon Node, which primarily functions as a VPN relay, Nexus Nodes provide AI Agent hosting, firewall deployment, and global DNS assignment for applications deployed by users.
+The Erebrus Astro Node is a high-performance node designed for AI workloads, application orchestration, and decentralized VPN. Unlike the Beacon Node, which primarily functions as a VPN relay, Astro Nodes provide AI Agent hosting, firewall deployment, and global DNS assignment for applications deployed by users.
 
 ## Overview
 
-Running a Nexus Node allows you to earn rewards for sharing compute and storage resources, supporting decentralized AI coordination and censorship-resistant applications. Operators must have a static IP and a wildcard domain to enable seamless deployment and connectivity. While a home lab setup is possible, cloud deployment is recommended for performance and reliability.
+Running a Astro Node allows you to earn rewards for sharing compute and storage resources, supporting decentralized AI coordination and censorship-resistant applications. Operators must have a static IP and a wildcard domain to enable seamless deployment and connectivity. While a home lab setup is possible, cloud deployment is recommended for performance and reliability.
 
-By hosting a Nexus Node, you help build a resilient AI coordination layer, enabling users to deploy AI agents, self-hosted apps like Nextcloud, and privacy-enhancing tools.
+By hosting a Astro Node, you help build a resilient AI coordination layer, enabling users to deploy AI agents, self-hosted apps like Nextcloud, and privacy-enhancing tools.
 
 ## Prerequisites
 
@@ -34,7 +34,7 @@ By hosting a Nexus Node, you help build a resilient AI coordination layer, enabl
 
 ### Cloud Deployment (Recommended)
 
-Nexus Nodes require higher computing power, making cloud deployment preferable. Here's an estimated monthly cost based on recommended specifications:
+Astro Nodes require higher computing power, making cloud deployment preferable. Here's an estimated monthly cost based on recommended specifications:
 
 | Cloud Provider | Instance Type | CPU | RAM | Storage | Static IP | Estimated Cost |
 |----------------|---------------|-----|-----|---------|-----------|----------------|
@@ -45,7 +45,7 @@ Nexus Nodes require higher computing power, making cloud deployment preferable. 
 
 ## Requirements
 
-- **License Fee:** A Node License NFT is required to run a Nexus Node
+- **License Fee:** A Node License NFT is required to run a Astro Node
 - **Staking Requirement:** Currently $0 USD (subject to change based on demand & supply)
 - **Revenue Model:** Earn rewards for both:
   - Enabling encrypted, censorship-resistant VPN
