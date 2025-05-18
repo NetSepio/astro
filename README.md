@@ -4,7 +4,7 @@ The Erebrus Astro Node is a high-performance node designed for AI workloads, app
 
 ## Overview
 
-Running a Astro Node allows you to earn rewards for sharing compute and storage resources, supporting decentralized AI coordination and censorship-resistant applications. Operators must have a static IP and a wildcard domain to enable seamless deployment and connectivity. While a home lab setup is possible, cloud deployment is recommended for performance and reliability.
+Running a Astro Node allows you to earn rewards for sharing compute and storage resources, supporting decentralized AI coordination and censorship-resistant applications. Operators must have a static IP and a wildcard domain to enable seamless deployment and connectivity.
 
 By hosting a Astro Node, you help build a resilient AI coordination layer, enabling users to deploy AI agents, self-hosted apps like Nextcloud, and privacy-enhancing tools.
 
@@ -29,19 +29,6 @@ By hosting a Astro Node, you help build a resilient AI coordination layer, enabl
 - A stable, high-bandwidth internet connection (preferably wired)
 - Basic familiarity with command-line interface (CLI)
 - Node Wallet (valid mnemonic on the supported chain) for on-chain registration and checkpoint
-
-## Deployment Options
-
-### Cloud Deployment (Recommended)
-
-Astro Nodes require higher computing power, making cloud deployment preferable. Here's an estimated monthly cost based on recommended specifications:
-
-| Cloud Provider | Instance Type | CPU | RAM | Storage | Static IP | Estimated Cost |
-|----------------|---------------|-----|-----|---------|-----------|----------------|
-| Hetzner | AX41 | 8 vCPUs | 16GB | 512GB SSD | ✅ Included | ~$50/month |
-| AWS EC2 | t3.xlarge | 4 vCPUs | 16GB | 500GB SSD | ✅ $5 extra | ~$90/month |
-| DigitalOcean | General Droplet | 8 vCPUs | 16GB | 500GB SSD | ✅ $5 extra | ~$80/month |
-| Vultr | High-Performance | 8 vCPUs | 16GB | 500GB SSD | ✅ Included | ~$60/month |
 
 ## Requirements
 
@@ -88,7 +75,6 @@ Astro Nodes require higher computing power, making cloud deployment preferable. 
 
 - [Erebrus Documentation](https://docs.netsepio.com/latest/erebrus/nodes/astro-node)
 - [Support Discord](https://discord.gg/netsepio)
-
 
 ## License
 
